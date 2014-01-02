@@ -411,6 +411,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6d0019', end
 
 .section{
 	overflow: hidden;
+	text-align: center;
+}
+
+.section-sponsors{
+	overflow: hidden;
+	margin-bottom: 50px;
+	padding-left: 75px;
+	padding-right: 75px;
 }
 
 .section-image{
@@ -430,6 +438,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6d0019', end
 	color: #800000;
 	text-align: center;
 	margin-top: 100px;
+}
+
+.section-heading-sponsors{
+	color: #800000;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 50px;
 }
 
 .section-image.pull-right{
