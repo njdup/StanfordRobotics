@@ -17,6 +17,18 @@ def membership():
 @app.route('/outreach')
 def outreach():
 	return render_template('outreach.html')
+
+@app.route('/projects')
+def projects():
+	return render_template('projects.html')
+
+@app.route('/sponsors')
+def sponsors():
+	return render_template('sponsors.html')
+
+@app.route('/contact')
+def contact():
+	return render_template('contact.html')
 	
 if __name__ == '__main__':
 	app.debug = True
