@@ -423,7 +423,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6d0019', end
 
 .section-image{
 	height: 350px;
-	width: 350px;
+	width: 450px;
 	border: 6px solid #800000;
 	border-radius: 40px;
 }
